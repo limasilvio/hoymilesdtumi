@@ -1,0 +1,9 @@
+README.md
+setup.py
+bin/dtu_http_request
+hoymilesdtumi/__init__.py
+hoymilesdtumi/hoymilesdtumi.py
+hoymilesdtumi.egg-info/PKG-INFO
+hoymilesdtumi.egg-info/SOURCES.txt
+hoymilesdtumi.egg-info/dependency_links.txt
+hoymilesdtumi.egg-info/top_level.txt

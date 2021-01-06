@@ -6,8 +6,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="hoymilesdtumi", 
-    version="0.0.1",
-    scripts=["bin/dtu_http_request""],
+    version="0.0.3cd /hom",
     author="Silvio Lima",
     author_email="dev.silvio@gmail.com",
     description="Hoymiles DTU-MI data wrapper for python.",
@@ -23,6 +22,6 @@ setuptools.setup(
     ],
     python_requires='>=3.6',
     install_requires=[
-        l.strip() for l in Path('requirements.txt').read_text('utf-8').splitlines()
+        #l.strip() for l in Path('requirements.txt').read_text('utf-8').splitlines()
     ],
 )
