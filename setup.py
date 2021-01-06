@@ -13,7 +13,7 @@ setuptools.setup(
     description="Hoymiles DTU-MI data wrapper for python.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/tonyldo/climatempopy",
+    url="https://github.com/sileandro/hoymilesdtumi",
     packages=setuptools.find_packages(exclude=["*.tests", "*.tests.*", "tests.*", "tests"]),
     include_package_data=True,
     classifiers=[
